@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo_size">120sp</dimen>
+    <dimen name="titulo_cuadro_width">300dp</dimen>
+    <dimen name="enter_size">60sp</dimen>
+</resources>
